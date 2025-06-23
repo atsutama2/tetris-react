@@ -127,28 +127,9 @@ npm test -- --coverage
 - **テスト駆動**: 各機能にテストを実装
 - **コンポーネント分離**: 責務を明確に分離
 
-### 今後の改善案
-- [ ] 音効追加
-- [ ] ハイスコア保存機能
-- [ ] 難易度設定
-- [ ] モバイル対応
-- [ ] アニメーション強化
-
-## 🤝 コントリビューション
-
-1. このリポジトリをフォーク
-2. 機能ブランチを作成 (`git checkout -b feature/amazing-feature`)
-3. 変更をコミット (`git commit -m 'Add amazing feature'`)
-4. ブランチにプッシュ (`git push origin feature/amazing-feature`)
-5. プルリクエストを作成
-
 ## 📄 ライセンス
 
 MIT License
-
-## 👨‍💻 作者
-
-テトリスゲーム開発チーム
 
 ---
 
