@@ -1,7 +1,8 @@
 # 依存パッケージ
 node_modules/
 
-# ビルド成果物uild/
+# ビルド成果物
+build/
 
 # TypeScriptビルドキャッシュ
 *.tsbuildinfo
@@ -10,4 +11,7 @@ node_modules/
 .env*
 
 # Macのゴミファイル
-.DS_Store 
+.DS_Store
+
+# テストカバレッジファイル
+coverage/ 
