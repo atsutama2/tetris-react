@@ -1,0 +1,13 @@
+# 依存パッケージ
+node_modules/
+
+# ビルド成果物uild/
+
+# TypeScriptビルドキャッシュ
+*.tsbuildinfo
+
+# 環境変数ファイル
+.env*
+
+# Macのゴミファイル
+.DS_Store 

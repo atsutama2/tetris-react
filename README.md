@@ -20,7 +20,7 @@ React + TypeScriptで作られたクラシックなテトリスゲームです�
 ### インストール
 ```bash
 # リポジトリをクローン
-git clone <repository-url>
+git clone git@github.com:atsutama2/tetris-react.git
 cd tetris
 
 # 依存関係をインストール
